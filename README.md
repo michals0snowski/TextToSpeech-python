@@ -9,22 +9,16 @@ Prerequisites
 Getting Started
 1. Clone the repository:
 
-bash
-
-    git clone https://github.com/michals0snowski/text-to-speech-converter.git
-    cd text-to-speech-converter
+        git clone https://github.com/michals0snowski/text-to-speech-converter.git
+        cd text-to-speech-converter
 
 2. Install the required dependencies:
 
-bash
-
-    pip install gtts
+        pip install gtts
 
 3. Run the program:
 
-bash
-
-    python txtToSpeech.py
+        python txtToSpeech.py
 
 Usage
 
